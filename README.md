@@ -2,7 +2,8 @@
 Decision Trees (DTs) are a non-parametric supervised learning method used for  classification and regression. The goal is to create a model that predicts the value of a target variable by learning simple decision rules inferred from the data features. 
 
 
-<img src="different_classes_of_wine.webp" alt="Decision Tree Model" width="1000" height="620">
+<img src="different_classes_of_wine.webp" alt="Decision Tree Model" width="800" height="520">
+<p><i>source = wlfi. Italian Wine: Mastering Classification. https://www.wlovefromitaly.com/italian-wine-mastering-classification/</i></p>
 <h2>Background</h2>
 <p>Decision Trees (DTs) are a non-parametric supervised learning method utilized for both classification and regression tasks. The objective of this project is to build a model that predicts the value of a target variable by learning straightforward decision rules from the features of the dataset. After training, a decision tree is obtained. In practice, a predictive decision tree model incrementally selects the optimal decisions to split on, evaluated based on the entropy principle, to produce an output classification from the input data. For this assessment, you will describe a new problem and use certain machine learning Python modules to create an ID3 predictive decision tree model. Additionally, you will provide a visualization to better understand the classification process..</p>
 
